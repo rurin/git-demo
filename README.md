@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-loving you it's easy cause you are sweet
-
-lalalalala lalalalala
+1. index.html
